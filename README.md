@@ -56,5 +56,7 @@ L'organisation des fichiers suit les standards industriels de l'ingénierie de d
 * **Manque d'accompagnement** : Utiliser ChatGPT pour générer un support de cours sans apporter d'accompagnement concrèt ne constitue pas un acte d'enseignement.
 * **Problème Technique** : Nous n'avons pas réussi a faire fonctionner le code. Et quand nous remontions les problèmes vous ne faisiez que nous envoyer sur une IA ou nous dire de supprimer l'appel de la méthode.
 * **Investissement** : L'attitude passive de l'intervenant nuit gravement à la progression des apprenants.
+* **Fichier Data** : Il n'y a pas de fichier de données dans ce repository car vous nous avez demandé de supprimer les fichiers pour en mettre d'autres que vous ne nous avez pas envoyé.
 
 ---
+
